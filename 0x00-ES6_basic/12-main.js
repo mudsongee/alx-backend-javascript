@@ -1,4 +1,4 @@
-import createEmployeesObject from '../11-createEmployeesObject.js';
+import createEmployeesObject from '/root/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js';
 import createReportObject from '../12-createReportObject.js';
 
 const employees = {
